@@ -1,0 +1,72 @@
+﻿<html
+    xmlns:o="urn:schemas-microsoft-com:office:office"
+    xmlns:w="urn:schemas-microsoft-com:office:word">
+<head>
+  <meta charset="UTF-8" />
+  <style></style>
+</head>
+<body>
+  <div class="cv classic">
+    <div class="hd">
+      <div class="av-ph">ZQ</div>
+      <div>
+        <h2>Zainab Qazi</h2>
+        <div class="sub">Software Engineer</div>
+        <div class="meta">zainabawaisqazi@email.com · +92 300 1234567 · Islamabad, Pakistan · www.linkedin.com/in/ zainab-qazi-01b79a280</div>
+      </div>
+    </div>
+    <div class="body">
+      <div class="main">
+        <div class="sh">Profile</div><div class="entry"><div class="d">Motivated Computer Science student with hands-on experience in web development. Passionate about building clean, user-friendly applications using modern technologies.</div></div>
+        <div class="sh">Experience</div>
+    <div class="entry">
+      <div class="t">Web Developer Intern</div>
+      <div class="s">TechCorp Pvt Ltd · Jun – Aug 2025</div>
+      <div class="d">Built responsive UI components using Bootstrap and JavaScript. Collaborated with senior developers on a client project.</div>
+    </div>
+        <div class="sh">Education</div>
+    <div class="entry">
+      <div class="t">BS Software Engineering</div>
+      <div class="s">COMSATS University Islamabad · 2024–2028</div>
+      <div class="d">GPA: 3.5 / 4.0</div>
+    </div>
+        <div class="sh">Languages</div>
+    <div class="entry">
+      <div class="t">English</div>
+      <div class="s">Fluent</div>
+    </div>
+    <div class="entry">
+      <div class="t">Urdu</div>
+      <div class="s">Native</div>
+    </div>
+      </div>
+      <div class="side">
+        <div class="sh">Skills</div>
+    <div class="sk-bar">
+      <div class="sk-name">HTML5</div>
+      <div class="sk-track">
+        <div class="sk-fill" style="width:65%"></div>
+      </div>
+    </div>
+    <div class="sk-bar">
+      <div class="sk-name">CSS3</div>
+      <div class="sk-track">
+        <div class="sk-fill" style="width:73%"></div>
+      </div>
+    </div>
+    <div class="sk-bar">
+      <div class="sk-name">JavaScript</div>
+      <div class="sk-track">
+        <div class="sk-fill" style="width:81%"></div>
+      </div>
+    </div>
+    <div class="sk-bar">
+      <div class="sk-name">Bootstrap</div>
+      <div class="sk-track">
+        <div class="sk-fill" style="width:89%"></div>
+      </div>
+    </div>
+      </div>
+    </div></div>
+</body>
+</html>
